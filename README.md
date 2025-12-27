@@ -32,7 +32,7 @@ The game follows classic rules and is built using **HTML, CSS, and JavaScript** 
 
 ## ⚙️ How to Run the Project
 1. Clone the repository:
-2.  ```bash
+ ```bash
    git clone https://github.com/Shahanaj24/Currency-Converter.git
    --------------------------------------------------------------
 2 Open the project folder:
