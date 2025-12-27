@@ -33,7 +33,7 @@ The game follows classic rules and is built using **HTML, CSS, and JavaScript** 
 ## ⚙️ How to Run the Project
 1. Clone the repository:
  ```bash
-   git clone https://github.com/Shahanaj24/Currency-Converter.git
+   git clone https://github.com/Shahanaj24/Rock-Paper-Scissor-Game.git
    --------------------------------------------------------------
 2 Open the project folder:
 ```bash
@@ -46,5 +46,4 @@ OR use Live Server in VS Code.
 👩‍💻 Author
 Shahanaj Shaikh
 3rd Year Computer Engineering(Software Engineering)
-   ```bash
-   git clone https://github.com/Shahanaj24/Rock-Paper-Scissor-Game.git
+  
